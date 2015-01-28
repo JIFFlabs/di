@@ -9,9 +9,9 @@
     "url": "git://github.com/angular/di.js.git"
   },
   "jspm": {
-    "main": "index",
+    "main": "src/index",
     "directories": {
-    "lib": "src"
+      "lib": "src"
     },
     "format": "es6"
   },
