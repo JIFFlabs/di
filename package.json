@@ -8,6 +8,13 @@
     "type": "git",
     "url": "git://github.com/angular/di.js.git"
   },
+  "jspm": {
+    "main": "index",
+    "directories": {
+    "lib": "src"
+    },
+    "format": "es6"
+  },
   "bugs": {
     "url": "https://github.com/angular/di.js/issues"
   },
